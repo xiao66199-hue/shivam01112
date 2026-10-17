@@ -110,7 +110,7 @@
 ### 🚀 Recent public work
 
 <!--START_SECTION:activity-->
-1. Pushed updates to [`shivam01112/saitronics`](https://github.com/shivam01112/saitronics)
+_No recent public activity found._
 <!--END_SECTION:activity-->
 
 <br />
